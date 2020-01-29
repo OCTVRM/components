@@ -1,6 +1,16 @@
 # components
 
-Projecto con componentes de listas y uso de card.
+Projecto de uso de componentes.
+- Rutas
+- Alertas
+- Avatar
+- Cards
+- Inputs
+- Listview
+- Slider/Checks
+
+
+
 
 
 
