@@ -9,7 +9,8 @@ Projecto de uso de componentes.
 - Listview
 - Slider/Checks
 
-![Página inicio](http://imgur.com/jdVC7qE.jpg) 
+![Página inicio](http://imgur.com/jdVC7qE.jpg)  
+![Inputs](https://imgur.com/TDDy1bk.jpg)  
 
 
 
