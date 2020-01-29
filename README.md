@@ -9,7 +9,9 @@ Projecto de uso de componentes.
 - Listview
 - Slider/Checks
 
-<p align="right"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> 
+<p align="left"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> <p align="center"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> <p align="right"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> 
+
+
 
 
 
