@@ -9,7 +9,12 @@ Projecto de uso de componentes.
 - Listview
 - Slider/Checks
 
-<p align="left"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> <p align="center"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> <p align="right"> <img src="https://imgur.com/5Hnww5t.jpg" width="350"/> </p> 
+## Screenshots
+
+[![calc.rs example](https://imgur.com/5Hnww5t.jpg)](./druid/examples/custom_widget.rs)
+[![custom_widget.rs example](https://imgur.com/TDDy1bk.jpg)](./druid/examples/custom_widget.rs)
+[![hello.rs example](https://imgur.com/jdVC7qE.jpg)](./druid/examples/custom_widget.rs)
+
 
 
 
